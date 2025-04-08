@@ -9,7 +9,7 @@ Diplômée du Master mention Mathématiques appliquées, statistique, parcours S
 
 - 🌱 Je suis en train d'apprendre : React
 - 👯 Je souhaite désormais travailler sur des projets innovants
-- 🤔 Je cherche des astuces sur AWS et Microsoft Azure
+- 🤔 Je cherche des astuces sur JAVA
 - 📫 Vous pouvez me contacter : ladypolo19@gmail.com
 
 
