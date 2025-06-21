@@ -13,6 +13,6 @@ Diplômée du Master mention Mathématiques appliquées, statistique, parcours S
 - 🥳 Certified Full Stack Developer Curriculum (FreeCodecamp en cours)
 - 📫 Vous pouvez me contacter : ladypolo19@gmail.com
 - 🎧 A l'écoute des opportunités de carrière en France !
-- Vous pouvez consulter mon CV ici
+- HTML / CSS certification FreeCodeCamp
 
 
