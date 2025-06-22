@@ -14,5 +14,6 @@ Diplômée du Master mention Mathématiques appliquées, statistique, parcours S
 - 📫 Vous pouvez me contacter : ladypolo19@gmail.com
 - 🎧 A l'écoute des opportunités de carrière en France !
 - HTML / CSS certification FreeCodeCamp
+- SQL certification 
 
 
