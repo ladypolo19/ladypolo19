@@ -7,7 +7,6 @@ Diplômée du Master mention Mathématiques appliquées, statistique, parcours S
 
 -->
 
-- 🌱 Je suis en train d'apprendre : TS et React
 - 👯 Je souhaite désormais travailler sur des projets innovants
 - 🤔 Je cherche des astuces sur JAVA
 - 🥳 Certified Full Stack Developer Curriculum (FreeCodecamp en cours)
